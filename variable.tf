@@ -4,8 +4,8 @@ variable "hash_commit" {
 
 variable "app_name" {
   type        = string
-  default     = "Sem nome"
-  description = "Nome da app"
+  default     = "AppX"
+  description = "AppX simple example"
 }
 
 variable "instance_type" {
